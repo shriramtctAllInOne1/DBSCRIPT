@@ -1,0 +1,5 @@
+file=TW90orc.dmp
+log=SRC12Cimport.log
+fromuser=TrackWise
+touser =SYSADMIN 
+ignore=y
